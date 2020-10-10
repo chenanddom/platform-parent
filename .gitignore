@@ -1,0 +1,4 @@
+# Project exclude paths
+/platform-cas/platform-cas-api/target/
+/platform-cas/platform-cas-client/target/
+/platform-cas/platform-cas-provider/target/
